@@ -1,6 +1,6 @@
 # 影像處理簡介
 
-在這個課程裡面，我們會簡單的介紹Python的三個主要影像處理的套件：pillow, skimage, opencv。
+在這個課程裡面，我們會簡單的介紹Python的三個主要影像處理的套件(pillow, skimage, opencv)的使用方式。
 
 ## 關於唯客學院
 
